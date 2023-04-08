@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(69, 69, 69);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: black;
+    margin-top: 100px;
+}
+
+.chart-container {
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    top: 50%;
+    left: 36%;
+    margin-top: -150px;
+    margin-left: -200px;
+}
+
+.chart-container2 {
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px
+}
+
